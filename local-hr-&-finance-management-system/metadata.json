@@ -1,0 +1,6 @@
+{
+  "name": "Local HR & Finance Management System",
+  "description": "Secure local HR, payroll, attendance, payslip, and financial management system with Khmer and English support, dual USD/KHR currencies, and 16th-to-15th payroll cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
